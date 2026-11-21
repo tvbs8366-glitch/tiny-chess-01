@@ -1,1 +1,0 @@
-Temporary placeholder to enable the About settings. It will be removed after setting About.
